@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rodcochran
-- 👀 I’m interested in Data Science and modelling.
+- 👀 I’m interested in Machine Learning Engineering
 - 🌱 I’m currently learning ML and system architecture.
 - 💞️ I’m looking to collaborate on ML projects.
 - 📫 How to reach me: email me at rodrigocochran@berkeley.edu
