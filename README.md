@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @rodcochran
-- 👀 I’m interested in Machine Learning Engineering
-- 🌱 I’m currently learning ML and system architecture.
-- 💞️ I’m looking to collaborate on ML projects.
-- 📫 How to reach me: email me at rodrigocochran@berkeley.edu
+My name is Rodrigo, Rod for short. 
+
+Data Scientist turned ML Engineer turned AI engineer. 
+
+Always looking to get to lower level programming.
+
+Rewrite it in Rust. 
+
+My projects:
+- [rqx](https://github.com/rodcochran/rqx)
 
 <!---
 rodcochran/rodcochran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
